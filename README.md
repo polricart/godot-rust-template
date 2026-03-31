@@ -20,3 +20,5 @@ Setup, installation, configuration, etc. Please read this [wiki](https://github.
 $ cargo make run
 ```
 
+## Done!
+
